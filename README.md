@@ -42,7 +42,7 @@ DevOps & Tools
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-for-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git Badge"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Agile-21759B%3Fstyle%3Dfor-the-badge%26logo%3Datlassian%26logoColor%3Dwhite" alt="Agile Badge"/>
 </p>
 
@@ -97,3 +97,5 @@ https://linkedin.com/in/abdollah-mohajeri
 Portfolio
 
 https://abdollah-mohajeri.github.io/Resoume
+
+
