@@ -20,15 +20,13 @@ I am proficient in OOP, RESTful API development, Clean Architecture, and Agile m
 
 These are the main technologies I work with:
 
-Back-End & Data
-
 <p align="center">
-<img src="https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C# Badge"/>
-<img src="https://img.shields.io/badge/.NET-512BD4%3Fstyle%3Dfor-the-badge%26logo%3Ddotnet%26logoColor%3Dwhite" alt=".NET Badge"/>
-<img src="https://img.shields.io/badge/ASP.NET%2520Core-512BD4%3Fstyle%3Dfor-the-badge%26logo%3Ddot-net%26logoColor%3Dwhite" alt="ASP.NET Core Badge"/>
-<img src="https://img.shields.io/badge/SQL%2520Server-CC2927%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-sql-server%26logoColor%3Dwhite" alt="SQL Server Badge"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt="ASP.NET Core Badge"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600%3Fstyle%3Dfor-the-badge%26logo%3Drabbitmq%26logoColor%3Dwhite" alt="RabbitMQ Badge"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ Badge"/>
 </p>
 
 Game & Mobile Development
