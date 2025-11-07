@@ -7,20 +7,17 @@ Hi there, I'm Abdollah Mohajeri! 👋
 💻 Software Developer, .NET Developer, & Unity Developer 🎮
 
 </div>
-<hr>
-👨‍💻 Professional Summary
 
+👨‍💻 Professional Summary
+<hr>
 Highly motivated and results-driven Software Developer and .NET Developer with over 7 years of professional experience in the Software Development Life Cycle (SDLC).
 
 I specialize in building robust and scalable applications using C#, ASP.NET Core (MVC & Web API), and Unity for game development. Successfully developed and published 100+ mobile games and applications with over 2 million active users across major app markets.
 
 I am proficient in OOP, RESTful API development, Clean Architecture, and Agile methodologies. I am highly interested in relocation to Germany and fully ready for visa sponsorship opportunities.
 
-<hr>
-
-
 🛠️ Technical Skills & Tools
-
+<hr>
 These are the main technologies I work with:
 
 Back-End & Data
@@ -49,10 +46,10 @@ DevOps & Tools
 <img src="https://img.shields.io/badge/Agile-21759B?style=for-the-badge&logo=atlassian&logoColor=white" alt="Agile Badge"/>
 </p>
 
-<hr>
+
 
 💼 Key Professional Experience
-
+<hr>
 1. FREELANCER — Software & .NET Developer
 
 (Jul 2023 – Present)
@@ -78,10 +75,10 @@ Applied OOP and design patterns in high-performance game logic.
 Led the development of multiple Android applications using C# and managed the technical operations of the platform.
 
 Successfully delivered products from concept to deployment using Agile principles.
-<hr>
+
 
 📈 My GitHub Stats
-
+<hr>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein2015&layout=compact&theme=radical" alt="Top Languages" />
 </div>
