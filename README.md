@@ -4,7 +4,7 @@ Hi there, I'm Abdollah Mohajeri! 👋
 
 (amirhosein2015)
 
-💻 .NET Full-Stack Developer & Unity Game Developer 🎮
+💻 Software Developer, .NET Developer, & Unity Developer 🎮
 
 </div>
 
