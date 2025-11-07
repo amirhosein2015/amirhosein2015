@@ -85,12 +85,117 @@ Successfully delivered products from concept to deployment using Agile principle
 <h3>✉️ Get In Touch</h3>
 
 Contact
+Email
 
-Link
+mailto:abdollahmohajeri.net@gmail.com
 
-<h6>Email</h6> mailto:abdollahmohajeri.net@gmail.com
+LinkedIn
 
-<h6>LinkedIn</h6> https://linkedin.com/in/abdollah-mohajeri
+https://linkedin.com/in/abdollah-mohajeri
 
-<h6>Portfolio</h6> https://abdollah-mohajeri.github.io/Resoume
+Portfolio
+
+https://abdollah-mohajeri.github.io/Resoume
+
+
+
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>اطلاعات تماس | Contact Information</title>
+    <!-- بارگذاری فریم‌ورک Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- تنظیم فونت (Inter) و استایل‌های عمومی -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f3f4f6; /* رنگ پس زمینه روشن */
+        }
+        /* استایل خاص برای لینک‌ها و جدول */
+        .table-header {
+            background-color: #1f2937; /* خاکستری تیره برای هدر جدول */
+            color: white;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex items-center justify-center p-4">
+    <div class="bg-white shadow-2xl rounded-xl p-8 w-full max-w-lg border border-gray-200">
+        <!-- عنوان اصلی -->
+        <h1 class="text-3xl font-extrabold text-gray-800 text-center mb-6 border-b-2 pb-2 border-indigo-500">
+            ✉️ اطلاعات تماس
+        </h1>
+
+        <!-- جدول اطلاعات تماس -->
+        <div class="overflow-x-auto rounded-lg shadow-md">
+            <table class="min-w-full divide-y divide-gray-200">
+                <thead class="table-header">
+                    <tr>
+                        <th scope="col" class="px-6 py-3 text-right text-xs font-medium uppercase tracking-wider rounded-tr-lg">
+                            تماس
+                        </th>
+                        <th scope="col" class="px-6 py-3 text-right text-xs font-medium uppercase tracking-wider rounded-tl-lg">
+                            لینک/آدرس
+                        </th>
+                    </tr>
+                </thead>
+                <tbody class="bg-white divide-y divide-gray-100">
+
+                    <!-- ردیف ایمیل -->
+                    <tr class="hover:bg-indigo-50 transition duration-150 ease-in-out">
+                        <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                            ایمیل (Email)
+                        </td>
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-blue-600 hover:text-blue-800">
+                            <a href="mailto:abdollahmohajeri.net@gmail.com" target="_blank" class="truncate block">
+                                abdollahmohajeri.net@gmail.com
+                            </a>
+                        </td>
+                    </tr>
+
+                    <!-- ردیف لینکدین -->
+                    <tr class="hover:bg-indigo-50 transition duration-150 ease-in-out">
+                        <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                            لینکدین (LinkedIn)
+                        </td>
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-blue-600 hover:text-blue-800">
+                            <a href="https://linkedin.com/in/abdollah-mohajeri" target="_blank" class="truncate block">
+                                /in/abdollah-mohajeri
+                            </a>
+                        </td>
+                    </tr>
+
+                    <!-- ردیف پورتفولیو -->
+                    <tr class="hover:bg-indigo-50 transition duration-150 ease-in-out">
+                        <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                            پورتفولیو (Portfolio)
+                        </td>
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-blue-600 hover:text-blue-800">
+                            <a href="https://abdollah-mohajeri.github.io/Resoume" target="_blank" class="truncate block">
+                                Resoume Portfolio
+                            </a>
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+        
+        <p class="text-xs text-gray-500 mt-4 text-center">
+            با کلیک بر روی هر لینک، به صفحه مربوطه هدایت خواهید شد.
+        </p>
+
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
 
