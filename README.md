@@ -7,7 +7,7 @@ Hi there, I'm Abdollah Mohajeri! 👋
 💻 Software Developer, .NET Developer, & Unity Developer 🎮
 
 </div>
-
+<hr>
 👨‍💻 Professional Summary
 
 Highly motivated and results-driven Software Developer and .NET Developer with over 7 years of professional experience in the Software Development Life Cycle (SDLC).
