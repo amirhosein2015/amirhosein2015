@@ -78,13 +78,14 @@ Applied OOP and design patterns in high-performance game logic.
 Led the development of multiple Android applications using C# and managed the technical operations of the platform.
 
 Successfully delivered products from concept to deployment using Agile principles.
+<hr>
 
 📈 My GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein2015&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
+<hr>
 ✉️ Get In Touch
 
 Contact
