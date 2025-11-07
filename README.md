@@ -16,6 +16,9 @@ I specialize in building robust and scalable applications using C#, ASP.NET Core
 
 I am proficient in OOP, RESTful API development, Clean Architecture, and Agile methodologies. I am highly interested in relocation to Germany and fully ready for visa sponsorship opportunities.
 
+<hr>
+
+
 🛠️ Technical Skills & Tools
 
 These are the main technologies I work with:
@@ -45,6 +48,8 @@ DevOps & Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 <img src="https://img.shields.io/badge/Agile-21759B?style=for-the-badge&logo=atlassian&logoColor=white" alt="Agile Badge"/>
 </p>
+
+<hr>
 
 💼 Key Professional Experience
 
