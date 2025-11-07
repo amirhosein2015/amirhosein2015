@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Hi there, I'm Abdollah Mohajeri! 👋</h1>
+<h1>I'm Abdollah Mohajeri!</h1>
 
 (amirhosein2015)
 
@@ -16,11 +16,11 @@ I specialize in building robust and scalable applications using C#, ASP.NET Core
 
 I am proficient in OOP, RESTful API development, Clean Architecture, and Agile methodologies. I am highly interested in relocation to Germany and fully ready for visa sponsorship opportunities.
 <hr>
-🛠️ Technical Skills & Tools
+<h4>🛠️ Technical Skills & Tools</h4>
 
 These are the main technologies I work with:
 
-Back-End & Data
+<h5>Back-End & Data</h5>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
@@ -31,14 +31,14 @@ Back-End & Data
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ Badge"/>
 </p>
 
-Game & Mobile Development
+<h5>Game & Mobile Development</h5>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity Badge"/>
 <img src="https://img.shields.io/badge/2D%20Animation-blue?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="2D Animation Badge"/>
 </p>
 
-DevOps & Tools
+<h5>DevOps & Tools</h5>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
@@ -47,7 +47,7 @@ DevOps & Tools
 </p>
 <hr>
 
-💼 Key Professional Experience
+<h3>💼 Key Professional Experience</h3>
 
 1. FREELANCER — Software & .NET Developer
 
@@ -76,27 +76,21 @@ Led the development of multiple Android applications using C# and managed the te
 Successfully delivered products from concept to deployment using Agile principles.
 
 <hr>
-📈 My GitHub Stats
+<h3>📈 My GitHub Stats</h3>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein2015&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 <hr>
-✉️ Get In Touch
+<h3>✉️ Get In Touch</h3>
 
 Contact
 
 Link
 
-Email
+<h6>Email</h6> mailto:abdollahmohajeri.net@gmail.com
 
-mailto:abdollahmohajeri.net@gmail.com
+<h6>LinkedIn</h6> https://linkedin.com/in/abdollah-mohajeri
 
-LinkedIn
-
-https://linkedin.com/in/abdollah-mohajeri
-
-Portfolio
-
-https://abdollah-mohajeri.github.io/Resoume
+<h6>Portfolio</h6> https://abdollah-mohajeri.github.io/Resoume
 
