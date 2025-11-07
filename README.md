@@ -77,7 +77,7 @@ Successfully delivered products from concept to deployment using Agile principle
 📈 My GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Damirhosein2015%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein2015&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ✉️ Get In Touch
