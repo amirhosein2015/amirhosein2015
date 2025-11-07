@@ -4,11 +4,11 @@
 
 (amirhosein2015)
 
-💻 Software Developer, .NET Developer, & Unity Developer 🎮
+<h2>💻 Software Developer, .NET Developer, & Unity Developer 🎮</h2>
 
 </div>
 <hr>
-👨‍💻 Professional Summary
+👨‍💻<h3>Professional Summary</h3> 
 
 Highly motivated and results-driven Software Developer and .NET Developer with over 7 years of professional experience in the Software Development Life Cycle (SDLC).
 
