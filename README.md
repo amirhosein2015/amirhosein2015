@@ -34,16 +34,16 @@ Back-End & Data
 Game & Mobile Development
 
 <p align="center">
-<img src="https://img.shields.io/badge/Unity-FFFFFF%3Fstyle%3Dfor-the-badge%26logo%3Dunity%26logoColor%3Dblack" alt="Unity Badge"/>
-<img src="https://img.shields.io/badge/2D%2520Animation-blue%3Fstyle%3Dfor-the-badge%26logo%3Dadobe-after-effects%26logoColor%3Dwhite" alt="2D Animation Badge"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity Badge"/>
+<img src="https://img.shields.io/badge/2D%20Animation-blue?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="2D Animation Badge"/>
 </p>
 
 DevOps & Tools
 
 <p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker Badge"/>
-<img src="https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git Badge"/>
-<img src="https://img.shields.io/badge/Agile-21759B%3Fstyle%3Dfor-the-badge%26logo%3Datlassian%26logoColor%3Dwhite" alt="Agile Badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+<img src="https://img.shields.io/badge/Agile-21759B?style=for-the-badge&logo=atlassian&logoColor=white" alt="Agile Badge"/>
 </p>
 
 💼 Key Professional Experience
