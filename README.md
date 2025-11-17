@@ -9,15 +9,28 @@
 ---
 
 ## 👨‍💻 Professional Summary  
+Highly experienced **Software Developer** and **.NET Developer** with **7+ years of hands-on experience** delivering **large-scale, high-traffic applications** across web, mobile, game development, and backend services.
 
-Highly motivated and results-driven Software Developer and .NET Developer with over **7 years of professional experience** in the Software Development Life Cycle (SDLC).
+I have built and maintained **complex, production-level systems** with thousands of concurrent users — including **100+ published mobile apps & games** with over **2 million total users**. This practical experience has given me strong expertise in **scalable architecture**, **performance optimization**, and designing systems that grow smoothly as traffic increases.
 
-I specialize in building **robust and scalable applications** using **C#, ASP.NET Core (MVC & Web API)**, and **Unity** for game development.  
-Successfully developed and published **100+ mobile games and applications** with **over 2 million active users** across major app markets.
+My technical background includes building:
 
-Proficient in **OOP**, **RESTful API**, **Clean Architecture**, and **Agile** methodologies.  
+- **Enterprise-grade Web Applications**
+- **High-performance RESTful Web APIs**
+- **Modular Microservices**
+- **Mobile Applications (Native & Unity/C#)**
+- **2D/3D Games with Unity**
+- **Windows Desktop Applications & Tools**
 
+I am proficient in **C#, ASP.NET Core (MVC & Web API), Unity, Clean Architecture, Domain-Driven Design principles, OOP, Agile**, and the entire **Software Development Life Cycle (SDLC)** — from concept and architecture to deployment and long-term maintenance.
 
+Additionally, I have practical experience in **UI/UX design**, enabling me to create applications that are not only technically robust but also user-friendly and visually intuitive.
+
+Driven by **clean code**, **scalable system design**, and building products that users truly enjoy.
+
+---
+
+⚠️ **Note:** Due to confidentiality agreements, I cannot publish some of my commercial projects on GitHub. However, I have uploaded several sample projects that represent my coding style, architecture approach, and practical experience.
 ---
 
 ## 🛠️ Technical Skills & Tools  
