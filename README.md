@@ -28,9 +28,8 @@ Additionally, I have practical experience in **UI/UX design**, enabling me to cr
 
 Driven by **clean code**, **scalable system design**, and building products that users truly enjoy.
 
----
+⚠️ Note: Due to confidentiality agreements, I cannot publish some of my commercial projects on GitHub. However, I have uploaded several sample projects that represent my coding style, architecture approach, and practical experience.
 
-⚠️ **Note:** Due to confidentiality agreements, I cannot publish some of my commercial projects on GitHub. However, I have uploaded several sample projects that represent my coding style, architecture approach, and practical experience.
 ---
 
 ## 🛠️ Technical Skills & Tools  
