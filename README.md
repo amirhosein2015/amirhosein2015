@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 I'm **Abdollah Mohajeri!**
-### 💻 Software Developer, .NET Developer, & Unity Developer 🎮  
+### 💻 Senior Software Engineer, .Net Developer & Unity Developer 🎮  
 *(amirhosein2015)*
 
 </div>
@@ -22,13 +22,14 @@ My technical background includes building:
 - **2D/3D Games with Unity**
 - **Windows Desktop Applications & Tools**
 
-I am proficient in **C#, ASP.NET Core (MVC & Web API), Unity, Clean Architecture, Domain-Driven Design principles, OOP, Agile**, and the entire **Software Development Life Cycle (SDLC)** — from concept and architecture to deployment and long-term maintenance.
+I am proficient in **C#, ASP.NET Core (MVC & Web API), Unity, Clean Architecture, Domain-Driven Design (DDD), OOP, Agile**, and the entire **Software Development Life Cycle (SDLC)** — from concept and architecture to deployment and long-term maintenance.
 
 Additionally, I have practical experience in **UI/UX design**, enabling me to create applications that are not only technically robust but also user-friendly and visually intuitive.
 
-Driven by **clean code**, **scalable system design**, and building products that users truly enjoy.
+Driven by **clean code**, **scalable system design**, and building products that users truly enjoy. I am a passionate lifelong learner, constantly studying emerging technologies to refine my craft, and I genuinely enjoy the art of programming.
 
-⚠️ Note: Due to confidentiality agreements, I cannot publish some of my commercial projects on GitHub. However, I have uploaded several sample projects that represent my coding style, architecture approach, and practical experience.
+⚠️ **Note:** Due to confidentiality agreements, I cannot publish some of my commercial projects on GitHub. However, I have uploaded several sample projects that represent my coding style, architectural approach, and practical experience.
+
 
 ---
 
@@ -87,7 +88,7 @@ Driven by **clean code**, **scalable system design**, and building products that
 
 ## 💼 Key Professional Experience  
 
-**1. FREELANCER — Software & .NET Developer**  
+**1. FREELANCER — Senior Software Engineer & .NET Developer**  
 *Jul 2023 – Present*  
 - Designed and implemented scalable web applications using **ASP.NET Core MVC** and **Web API**.  
 - Managed the full SDLC following **Clean Architecture** and maintainable code standards.
