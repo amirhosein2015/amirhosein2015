@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 I'm **Abdollah Mohajeri!**
-### 💻 Senior Software Engineer, .Net Developer & Unity Developer 🎮  
+### 💻 Senior Software Engineer | .NET Backend Engineer | Distributed Systems | Clean Architecture | Cloud & DevOps
 *(amirhosein2015)*
 
 </div>
@@ -9,10 +9,28 @@
 ---
 
 ## 👨‍💻 Professional Summary  
-Highly experienced **Software Developer** and **.NET Developer** with **7+ years of hands-on experience** delivering **large-scale, high-traffic applications** across web, mobile, game development, and backend services.
 
-I have built and maintained **complex, production-level systems** with thousands of concurrent users — including **100+ published mobile apps & games** with over **2 million total users**. This practical experience has given me strong expertise in **scalable architecture**, **performance optimization**, and designing systems that grow smoothly as traffic increases.
+**Senior Software Engineer** with 8+ years of experience designing and building **high-quality backend systems** using .NET, C#, and scalable distributed architectures. My work focuses on creating production-ready services built with Clean Architecture, DDD principles, and modern cloud-native engineering practices.
 
+I specialize in ASP.NET Core, EF Core, SQL Server/PostgreSQL, MongoDB, Redis, Docker, CI/CD pipelines, and containerized development workflows. I enjoy solving complex backend problems, optimizing performance, and designing maintainable, modular systems with clear domain boundaries.
+
+I have delivered commercial-grade applications including e-commerce backends, B2B supply systems, API-driven services, and high-volume backend components. Additionally, have built and maintained **complex, production-level systems** with thousands of concurrent users — including **100+ published mobile apps & games** with over **3 million total users**. This practical experience has given me strong expertise in **scalable architecture**, **performance optimization**, and designing systems that grow smoothly as traffic increases.
+
+
+Current technical focus areas:
+• Distributed systems and microservices
+• Scalable API architectures and performance engineering
+• Cloud readiness, observability, logging, and monitoring
+• System design, domain modeling, and maintainability
+
+Open to backend-focused roles, including:
+• Senior Software Engineer
+• Senior Backend Engineer
+• .NET Backend Engineer
+• Software Developer (Backend)
+
+Motivated to build robust engineering systems, continuously improve, and contribute to high-impact products.
+I
 My technical background includes building:
 
 - **Enterprise-grade Web Applications**
@@ -89,20 +107,15 @@ Driven by **clean code**, **scalable system design**, and building products that
 ## 💼 Key Professional Experience  
 
 **1. FREELANCER — Senior Software Engineer & .NET Developer**  
-*Jul 2023 – Present*  
+*Jul 2022 – Present*  
 - Designed and implemented scalable web applications using **ASP.NET Core MVC** and **Web API**.  
 - Managed the full SDLC following **Clean Architecture** and maintainable code standards.
 
-**2. CAFE BAZAAR — Game & Mobile App Developer (C#)**  
-*2014 – Present*  
-- Developed and optimized **100+ Unity-based games and apps** for Android.  
-- Achieved over **2 million total users**.  
+**2. Software Engineer (Freelance — Mobile Side Projects)**  
+*2014 – 2024*  
+- Developed and optimized **mobile application**.  
+- Achieved over **3 million total users**.  
 - Applied **OOP** and **Design Patterns** in game logic.
-
-**3. DELIHA — Software Developer & CEO**  
-*2023 – Jan 2025*  
-- Led multiple **Android app projects** in C#.  
-- Oversaw full product lifecycle using **Agile principles**.
 
 ---
 
