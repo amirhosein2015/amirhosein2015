@@ -106,7 +106,7 @@ Driven by **clean code**, **scalable system design**, and building products that
 
 ## 💼 Key Professional Experience  
 
-**1. FREELANCER — Senior Software Engineer & .NET Developer**  
+**1. Senior Software Engineer / .NET Backend Engineer (Freelance – Enterprise Projects)**  
 *Jul 2022 – Present*  
 - Designed and implemented scalable web applications using **ASP.NET Core MVC** and **Web API**.  
 - Managed the full SDLC following **Clean Architecture** and maintainable code standards.
