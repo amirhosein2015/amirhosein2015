@@ -1,44 +1,48 @@
 <div align="center">
 
 # 👋 I'm **Abdollah Mohajeri!**
+
 ### 💻 Senior Software Engineer | .NET Backend Engineer | Distributed Systems | Clean Architecture | Cloud & DevOps
 *(amirhosein2015)*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdollah-mohajeri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Global-brightgreen?style=flat-square)](https://abdollah-mohajeri.github.io/Resoume)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abdollahmohajeri.net@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary  
+## 👨‍💻 Professional Summary
 
 **Senior Software Engineer** with 8+ years of experience designing and building **high-quality backend systems** using .NET, C#, and scalable distributed architectures. My work focuses on creating production-ready services built with Clean Architecture, DDD principles, and modern cloud-native engineering practices.
 
 I specialize in ASP.NET Core, EF Core, SQL Server/PostgreSQL, MongoDB, Redis, Docker, CI/CD pipelines, and containerized development workflows. I enjoy solving complex backend problems, optimizing performance, and designing maintainable, modular systems with clear domain boundaries.
 
-I have delivered commercial-grade applications including e-commerce backends, B2B supply systems, API-driven services, and high-volume backend components. Additionally, have built and maintained **complex, production-level systems** with thousands of concurrent users — including **100+ published mobile apps & games** with over **3 million total users**. This practical experience has given me strong expertise in **scalable architecture**, **performance optimization**, and designing systems that grow smoothly as traffic increases.
-
+I have delivered commercial-grade applications including e-commerce backends, B2B supply systems, API-driven services, and high-volume backend components. Additionally, have built and maintained **complex, production-level systems** with thousands of concurrent users — including **Many published mobile apps & games** with over **3 million total users**. This practical experience has given me strong expertise in **scalable architecture**, **performance optimization**, and designing systems that grow smoothly as traffic increases.
 
 Current technical focus areas:
+
 • Distributed systems and microservices
+
 • Scalable API architectures and performance engineering
+
 • Cloud readiness, observability, logging, and monitoring
+
 • System design, domain modeling, and maintainability
 
 Open to backend-focused roles, including:
+
 • Senior Software Engineer
+
 • Senior Backend Engineer
+
 • .NET Backend Engineer
+
 • Software Developer (Backend)
 
 Motivated to build robust engineering systems, continuously improve, and contribute to high-impact products.
-I
-My technical background includes building:
 
-- **Enterprise-grade Web Applications**
-- **High-performance RESTful Web APIs**
-- **Modular Microservices**
-- **Mobile Applications (Native & Unity/C#)**
-- **2D/3D Games with Unity**
-- **Windows Desktop Applications & Tools**
 
 I am proficient in **C#, ASP.NET Core (MVC & Web API), Unity, Clean Architecture, Domain-Driven Design (DDD), OOP, Agile**, and the entire **Software Development Life Cycle (SDLC)** — from concept and architecture to deployment and long-term maintenance.
 
@@ -48,78 +52,57 @@ Driven by **clean code**, **scalable system design**, and building products that
 
 ⚠️ **Note:** Due to confidentiality agreements, I cannot publish some of my commercial projects on GitHub. However, I have uploaded several sample projects that represent my coding style, architectural approach, and practical experience.
 
-
+---
+### 🚀 Technical Core & Strategic Focus:
+*   **Backend Mastery:** High-performance .NET 8 Microservices, CQRS with MediatR, and Saga Orchestration via MassTransit & RabbitMQ.
+*   **Frontend Engineering:** Modern React 18 development with TypeScript (Strict Mode) and Industrial-grade UI/UX using Material UI.
+*   **Data Strategy:** Polyglot Persistence expert (SQL Server, PostgreSQL, MongoDB, Redis, and SQLite).
+*   **Cloud & Observability:** Production-grade Kubernetes orchestration, OpenTelemetry, Jaeger Tracing, and Seq Logging.
 ---
 
-## 🛠️ Technical Skills & Tools  
+## 🛠️ Technology Stack & Toolchain
 
-### 🔹 Back-End & Data
-<p align="center">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+### 🔹 Distributed Backend & Data Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🔹 Web & Scripting
-<p align="center">
+### 🔹 Modern Full-Stack & Web Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-  
-
-### 🔹 Desktop Development
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%20Forms-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+### 🔹 Cloud Native, DevOps & Reliability
+<p align="left">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-
-
-### 🔹 Game & Mobile Development
-<p align="center">
-   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/2D%20Animation-blue?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
+### 🔹 High-Fidelity Graphics & Gaming
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/UI%2FUX-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
 </p>
 
-### 🔹 DevOps & Tools
-<p align="center">
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-21759B?style=for-the-badge&logo=atlassian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
-
 ---
 
-## 💼 Key Professional Experience  
-
-**1. Senior Software Engineer / .NET Backend Engineer (Freelance – Enterprise Projects)**  
-*Jul 2022 – Present*  
-- Designed and implemented scalable web applications using **ASP.NET Core MVC** and **Web API**.  
-- Managed the full SDLC following **Clean Architecture** and maintainable code standards.
-
-**2. Software Engineer (Freelance — Mobile Side Projects)**  
-*2014 – 2024*  
-- Developed and optimized **mobile application**.  
-- Achieved over **3 million total users**.  
-- Applied **OOP** and **Design Patterns** in game logic.
-
----
-
-## 📈 My GitHub Stats  
+## 📈 Engineering Impact
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein2015&layout=compact&theme=radical" alt="Top Languages" />
@@ -127,19 +110,19 @@ Driven by **clean code**, **scalable system design**, and building products that
 
 ---
 
-## ✉️ Get In Touch  
+## ✉️ Strategic Networking
+
+I am actively looking for **Senior Software Engineer** and **Distributed Systems Architect** roles within the European tech ecosystem.
 
 | 🔗 Platform | 🌍 Link |
 |:------------|:--------|
 | **📧 Email** | [abdollahmohajeri.net@gmail.com](mailto:abdollahmohajeri.net@gmail.com) |
 | **💼 LinkedIn** | [linkedin.com/in/abdollah-mohajeri](https://linkedin.com/in/abdollah-mohajeri) |
-| **🌐 Portfolio** | [abdollah-mohajeri.github.io/Resoume](https://abdollah-mohajeri.github.io/Resoume) |
-| **💻 GitHub** | [github.com/amirhosein2015](https://github.com/amirhosein2015) |
+| **🌐 Digital Portfolio** | [Explore My Work](https://abdollah-mohajeri.github.io/Resoume) |
 
 ---
-
-⭐ *If you like my projects, feel free to star or fork them — every bit of support helps!*  
-<div align="center">Made with ❤️ by **Abdollah Mohajeri**</div>
+*“Precision in code, scalability in architecture, excellence in delivery.”*  
+<div align="center">**Abdollah Mohajeri | Senior Software Engineer**</div>
 
 
 
