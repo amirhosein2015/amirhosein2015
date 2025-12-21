@@ -1,4 +1,9 @@
 <div align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;Distributed+Systems+Architect;.NET+Backend+Expert;Cloud+Native+Enthusiast" alt="Typing SVG" />
+</div>
+
+
 
 # 👋 I'm **Abdollah Mohajeri!**
 
@@ -101,13 +106,21 @@ Driven by **clean code**, **scalable system design**, and building products that
 </p>
 
 ---
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| **CoreSupply** | Enterprise-grade B2B Microservices platform focusing on supply chain logistics. Implements **Saga Pattern**, **Distributed Tracing**, and **K8s** orchestration. | .NET 8, RabbitMQ, MassTransit, K8s, Redis | [View Repo](https://github.com/amirhosein2015/CoreSupply) |
+| **FinLedger** | **FiscalFlow SaaS**: A high-performance, Cloud-Native double-entry accounting engine built with a **Modular Monolith** architecture for maximum maintainability. | .NET 9, PostgreSQL, EF Core, Modular Monolith | [View Repo](https://github.com/amirhosein2015/FinLedger) |
+
+
+---
 
 ## 📈 Engineering Impact
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein2015&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
 ---
 
 ## ✉️ Strategic Networking
