@@ -1,13 +1,13 @@
 <div align="center">
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;Distributed+Systems+Architect;.NET+Backend+Expert;Cloud+Native+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer" alt="Typing SVG" />
 </div>
 
 
 
 # 👋 I'm **Abdollah Mohajeri!**
 
-### 💻 Senior Software Engineer | .NET Backend Engineer | Distributed Systems | Clean Architecture | Cloud & DevOps
+### 💻 Senior Software Engineer
 *(amirhosein2015)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdollah-mohajeri)
