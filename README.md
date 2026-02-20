@@ -14,9 +14,19 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Global-brightgreen?style=flat-square)](https://abdollah-mohajeri.github.io/Resoume)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abdollahmohajeri.net@gmail.com)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirhosein2015&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
+
+
+
 ---
+
+
+
+
+
 
 ## 👨‍💻 Professional Summary
 
@@ -24,7 +34,7 @@
 
 I specialize in ASP.NET Core, EF Core, SQL Server/PostgreSQL, MongoDB, Redis, Docker, CI/CD pipelines, and containerized development workflows. I enjoy solving complex backend problems, optimizing performance, and designing maintainable, modular systems with clear domain boundaries.
 
-I have delivered commercial-grade applications including e-commerce backends, B2B supply systems, API-driven services, and high-volume backend components. Additionally, have built and maintained **complex, production-level systems** with thousands of concurrent users — including **Many published mobile apps & games** with over **3 million total users**. This practical experience has given me strong expertise in **scalable architecture**, **performance optimization**, and designing systems that grow smoothly as traffic increases.
+I have delivered commercial-grade applications including e-commerce backends, B2B supply systems, API-driven services, and high-volume backend components. Additionally, have built and maintained **complex, production-level systems** with thousands of concurrent users — including **Many published mobile apps & games** with over **6 million total users**. This practical experience has given me strong expertise in **scalable architecture**, **performance optimization**, and designing systems that grow smoothly as traffic increases.
 
 Current technical focus areas:
 
@@ -116,12 +126,7 @@ Driven by **clean code**, **scalable system design**, and building products that
 
 ---
 
-## 📈 Engineering Impact
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein2015&layout=compact&theme=radical" alt="Top Languages" />
-</div>
----
 
 ## ✉️ Strategic Networking
 
@@ -137,6 +142,9 @@ I am actively looking for **Senior Software Engineer** and **Distributed Systems
 *“Precision in code, scalability in architecture, excellence in delivery.”*  
 <div align="center">**Abdollah Mohajeri | Senior Software Engineer**</div>
 
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirhosein2015&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
 
 
