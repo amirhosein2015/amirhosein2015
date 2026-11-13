@@ -30,31 +30,40 @@
 
 ## 👨‍💻 Professional Summary
 
-**Senior Software Engineer** with 8+ years of experience designing and building **high-quality backend systems** using .NET, C#, and scalable distributed architectures. My work focuses on creating production-ready services built with Clean Architecture, DDD principles, and modern cloud-native engineering practices.
 
-I specialize in ASP.NET Core, EF Core, SQL Server/PostgreSQL, MongoDB, Redis, Docker, CI/CD pipelines, and containerized development workflows. I enjoy solving complex backend problems, optimizing performance, and designing maintainable, modular systems with clear domain boundaries.
+Senior Software Engineer with 10+ years of experience designing, developing, and maintaining scalable software systems, specializing in C#, .NET Core, Python, Java, SQL, and advanced backend architectures. My work focuses on building reliable, production-ready applications, optimizing data workflows, and delivering high-quality technical solutions across software engineering, data management, and technical support.
 
-I have delivered commercial-grade applications including e-commerce backends, B2B supply systems, API-driven services, and high-volume backend components. Additionally, have built and maintained **complex, production-level systems** with thousands of concurrent users — including **Many published mobile apps & games** with over **6 million total users**. This practical experience has given me strong expertise in **scalable architecture**, **performance optimization**, and designing systems that grow smoothly as traffic increases.
+I specialize in ASP.NET Core, EF Core, SQL Server, PostgreSQL, MongoDB, Redis, Clean Architecture, DDD, SOLID principles, Microservices, and high-performance RESTful APIs. I also have hands-on experience with Python, Java, Docker, Kubernetes, CI/CD pipelines, observability, production monitoring, React, and TypeScript.
+
+I have delivered commercial-grade applications, e-commerce platforms, B2B systems, API-driven services, and complex production environments. My experience also includes Tier 2/3 technical support, Root Cause Analysis (RCA), production troubleshooting, performance optimization, and resolving complex system issues. Additionally, I have contributed to the development and maintenance of many published mobile applications and games with over 6.4 million installs, gaining practical experience in scalable architecture, system reliability, and real-world performance optimization.
+
+Beyond backend engineering, I have experience in Data Engineering and Optimization, including SQL query optimization, data integrity, data validation, and reliable data workflows. I also bring a background in UI/UX design, creating digital interfaces and layouts for websites, applications, and software products.
 
 Current technical focus areas:
 
-• Distributed systems and microservices
+• Backend architecture, distributed systems, and microservices
 
-• Scalable API architectures and performance engineering
+• Data engineering, SQL optimization, and data validation
 
-• Cloud readiness, observability, logging, and monitoring
+• AI-assisted software development and modern AI tools
 
-• System design, domain modeling, and maintainability
+• Production support, troubleshooting, and Root Cause Analysis (RCA)
 
-Open to backend-focused roles, including:
+• Cloud-native engineering, DevOps, CI/CD, and observability
+
+• System design, performance optimization, and software maintainability
+
+Open to backend-focused and cross-functional engineering roles, including:
 
 • Senior Software Engineer
 
-• Senior Backend Engineer
+• Senior .NET / Backend Engineer
 
-• .NET Backend Engineer
+• Data Engineer / Data Specialist
 
-• Software Developer (Backend)
+• Technical Support Engineer (Tier 2/3)
+
+• Software Developer (Backend / Full-Stack)
 
 Motivated to build robust engineering systems, continuously improve, and contribute to high-impact products.
 
